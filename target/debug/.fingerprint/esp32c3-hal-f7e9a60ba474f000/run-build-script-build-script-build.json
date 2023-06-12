@@ -1,0 +1,1 @@
+{"rustc":3249269541886640494,"features":"","target":0,"profile":0,"path":0,"deps":[[4908770754107439291,"build_script_build",false,3963236226525945755]],"local":[{"RerunIfChanged":{"output":"debug\\build\\esp32c3-hal-f7e9a60ba474f000\\output","paths":["ld/memory.x"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
